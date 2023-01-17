@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+}
+
+.head{
+    background-color: #a4b0eb;
+    width: 150px;
+    height: 150px;
+    border: 5px solid #0bbcc2;
+    border-radius: 20px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.light{
+    position: absolute;
+    top: 1px;
+    
+}
+.bulb{
+    width: 30px;
+    height: 30px;
+    background-color: #ffa500;
+    border-radius: 20px;
+    position: absolute;
+    top: -50px;
+    left: 58px;
+}
+.stick{
+    width: 10px;
+    height: 15px;
+    background-color: #808080;
+    position: absolute;
+    top: -21px;
+    left: 68px;
+}
+.ears{
+    position: absolute;
+}
+.ear{
+    width: 10px;
+    height: 50px;
+    background-color: #c90a0a;
+    position:absolute;
+    top: 91px;
+    left: 32px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.ear1{
+    width: 10px;
+    height: 50px;
+    background-color: #c90a0a;
+    position:absolute;
+    top: 91px;
+    left: 202px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.eyes{
+    position: absolute;
+}
+.eye{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    left: 65px;
+    top: 70px;
+    border-radius: 30px;
+    border: 5px solid #00b3ff;
+}
+.eye1{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    left: 138px;
+    top: 70px;
+    border-radius: 30px;
+    border: 5px solid #00b3ff;
+}
+.nose{
+    width:1px;
+    height:1px;
+    position: absolute;
+    top:110px;
+    left: 114px;
+    border-right: 15px solid transparent;
+    border-bottom: 30px solid #c90a0a;
+    border-left: 15px solid transparent;
+}
+.mouth{
+    width: 100px;
+    height: 25px;
+    background-color: #dedede;
+    position:absolute;
+    top: 150px;
+    left: 77px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.tooth{
+    width: 5px;
+    height: 25px;
+    background-color: black;
+    position: absolute;
+    left: 7px;
+}
+.tooth1{
+    width: 6px;
+    height: 25px;
+    background-color: black;
+    position: absolute;
+    left: 35px;
+}
+
+.tooth2{
+    width: 5px;
+    height: 25px;
+    background-color: black;
+    position: absolute;
+    left: 65px;
+}
+
+.tooth3{
+    width: 5px;
+    height: 25px;
+    background-color: black;
+    position: absolute;
+    left: 88px;
+}
+
+
